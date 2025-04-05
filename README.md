@@ -22,9 +22,13 @@ Core Features (v1):
 What it’s not:
 
 No internet
+
 No social media
+
 No messages
+
 No calls
+
 No “one more thing…”
 
 Why it exists:
