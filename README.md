@@ -10,9 +10,13 @@ No notifications. No infinite scroll. No dopamine drip. Just a few essential too
 Core Features (v1):
 
 ✍️ Notes — jot thoughts without distraction
+
 ⏰ Reminders — remember what matters, forget the noise
+
 🎵 Music — offline playback, your soundtrack on your terms
+
 🎙️ Podcasts (coming soon) — learn intentionally, not endlessly
+
 🔕 Alarm — gentle time boundaries, not jarring wake-up calls
 
 What it’s not:
